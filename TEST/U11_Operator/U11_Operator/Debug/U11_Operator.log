@@ -1,0 +1,69 @@
+﻿生成启动时间为 2021/2/27 11:37:03。
+     1>项目“D:\object_19111\GJ\CX-炉子\U11_Operator\U11_Operator\U11_Operator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\U11_Operator.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\MyInstall\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\U11_Operator.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt U11_Dialog_Param.cpp
+         U11_Dialog_Param.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\MyInstall\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\object_19111\GJ\CX-炉子\U11_Operator\Debug\U11_Operator.dll" /INCREMENTAL /NOLOGO /DEF:".\U11_Operator.def" /MANIFEST /ManifestFile:"Debug\U11_Operator.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\object_19111\GJ\CX-炉子\U11_Operator\Debug\U11_Operator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\object_19111\GJ\CX-炉子\U11_Operator\Debug\U11_Operator.lib" /MACHINE:X86 /DLL Debug\U11_Operator.res
+         Debug\U11_Operator.dll.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\U11_DialigHand.obj
+         Debug\U11_Dialog_Param.obj
+         Debug\U11_Operator.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\U11_Operator.dll.embed.manifest" /manifest Debug\U11_Operator.dll.intermediate.manifest D:\MyInstall\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         U11_Operator.vcxproj -> D:\object_19111\GJ\CX-炉子\U11_Operator\Debug\U11_Operator.dll
+       PostBuildEvent:
+         copylib.bat
+         :VCEnd
+          驱动器 D 中的卷是 DATA
+          卷的序列号是 308A-9528
+         
+          D:\object_19111\GJ\CX-炉子\U11_Operator\debug 的目录
+         
+         2021/02/27  11:01    <DIR>          .
+         2021/02/27  11:01    <DIR>          ..
+         2021/02/27  11:37           119,296 U11_Operator.dll
+         2021/02/27  11:01             1,024 U11_Operator.exp
+         2021/02/27  11:37         1,327,532 U11_Operator.ilk
+         2021/02/27  11:01             2,278 U11_Operator.lib
+         2021/02/27  11:37         5,843,968 U11_Operator.pdb
+                        5 个文件      7,294,098 字节
+                        2 个目录 81,539,121,152 可用字节
+         ..\debug\*.exe 
+         系统找不到指定的文件。
+         已复制         0 个文件。
+         ..\debug\U11_Operator.dll
+         已复制         1 个文件。
+         ..\debug\U11_Operator.lib
+         已复制         1 个文件。
+          驱动器 D 中的卷是 DATA
+          卷的序列号是 308A-9528
+         
+          D:\object_19111\GJ\CX-炉子\run 的目录
+         
+         2021/02/25  16:06    <DIR>          .
+         2021/02/25  16:06    <DIR>          ..
+         2021/02/23  10:37           155,648 RunRobot.exe
+         2021/02/27  11:01           126,976 U10_MainDlg.dll
+         2021/02/27  11:37           119,296 U11_Operator.dll
+                        3 个文件        401,920 字节
+                        2 个目录 81,538,568,192 可用字节
+       FinalizeBuildStatus:
+         正在删除文件“Debug\U11_Operator.unsuccessfulbuild”。
+         正在对“Debug\U11_Operator.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\object_19111\GJ\CX-炉子\U11_Operator\U11_Operator\U11_Operator.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.10

@@ -1,0 +1,65 @@
+﻿生成启动时间为 2021/2/23 10:37:11。
+     1>项目“D:\object_19111\GJ\CX-炉子\RunRobot\RunRobot\RunRobot.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\RunRobot.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\MyInstall\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\object_19111\GJ\CX-炉子\RunRobot\Debug\RunRobot.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\RunRobot.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\object_19111\GJ\CX-炉子\RunRobot\Debug\RunRobot.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\object_19111\GJ\CX-炉子\RunRobot\Debug\RunRobot.lib" /MACHINE:X86 Debug\RunRobot.res
+         Debug\RunRobot.exe.embed.manifest.res
+         Debug\RunRobot.obj
+         Debug\RunRobotDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\RunRobot.exe.embed.manifest" /manifest Debug\RunRobot.exe.intermediate.manifest D:\MyInstall\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         RunRobot.vcxproj -> D:\object_19111\GJ\CX-炉子\RunRobot\Debug\RunRobot.exe
+       PostBuildEvent:
+         copylib.bat
+         :VCEnd
+          驱动器 D 中的卷是 DATA
+          卷的序列号是 308A-9528
+         
+          D:\object_19111\GJ\CX-炉子\RunRobot\debug 的目录
+         
+         2021/02/23  10:37    <DIR>          .
+         2021/02/23  10:37    <DIR>          ..
+         2021/02/23  10:37           155,648 RunRobot.exe
+         2021/02/23  10:37           979,936 RunRobot.ilk
+         2021/02/23  10:37         5,532,672 RunRobot.pdb
+                        3 个文件      6,668,256 字节
+                        2 个目录 82,207,551,488 可用字节
+         ..\debug\RunRobot.exe
+         已复制         1 个文件。
+         ..\debug\*.dll 
+         系统找不到指定的文件。
+         已复制         0 个文件。
+         ..\debug\*.lib 
+         系统找不到指定的文件。
+         已复制         0 个文件。
+          驱动器 D 中的卷是 DATA
+          卷的序列号是 308A-9528
+         
+          D:\object_19111\GJ\CX-炉子\run 的目录
+         
+         2021/02/23  10:34    <DIR>          .
+         2021/02/23  10:34    <DIR>          ..
+         2021/02/23  10:37           155,648 RunRobot.exe
+         2021/02/23  10:37            88,576 U10_MainDlg.dll
+                        2 个文件        244,224 字节
+                        2 个目录 82,207,395,840 可用字节
+       FinalizeBuildStatus:
+         正在删除文件“Debug\RunRobot.unsuccessfulbuild”。
+         正在对“Debug\RunRobot.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\object_19111\GJ\CX-炉子\RunRobot\RunRobot\RunRobot.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.71
